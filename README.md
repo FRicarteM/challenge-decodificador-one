@@ -34,6 +34,6 @@
 </p>
 <br>
 <div align="center">
-    <img src="./imagens/alura_challenge.png"/>
+    <img src="./images/alura_challenge.png"/>
 </div>
 
